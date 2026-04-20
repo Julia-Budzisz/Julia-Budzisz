@@ -3,7 +3,11 @@
 I'm Julia, a game development student based in Poznań, Poland.
 ### What currently am I working on?
 - Learing game programming in Unity (C#) and Unreal Engine (Blueprints)
-- Exploring project management in game dev (Scrum) 
+- Exploring project management in game dev (Scrum)
+
+###  -> Projects
+- VR game
+- Limbo kitchen
 ### What tools do I use?
 - **Engines:** Unity, Unreal Engine
 - **Languages:** C#
