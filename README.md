@@ -2,15 +2,15 @@
  
 I'm Julia, a game development student based in Poznań, Poland.
 ### What currently am I working on?
-- Learing game programming in Unity (C#) and Unreal Engine (Blueprints)
+- Learing game programming in Unity (C#) 
 - Exploring project management in game dev (Scrum)
 
 ###  -> Projects
-- VR game
-- Limbo kitchen
+- Mobile game
+- Limbo kitchen (Naihe Bridge)
 ### What tools do I use?
 - **Engines:** Unity, Unreal Engine
 - **Languages:** C#
 - **Version Control:** Git, GitHub, GitLab, GitKraken
-- **Project Management:** Jira, Mural, Miro, Lucidspark, Trello
+- **Project Management:** Jira, Mural, Miro, Lucidspark, Trello, Notion
 - **Other:** Visual Studio, VS Code, Premiere Pro, Figma
