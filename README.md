@@ -13,4 +13,5 @@ I'm Julia, a game development student based in Poznań, Poland.
 - **Languages:** C#
 - **Version Control:** Git, GitHub, GitLab, GitKraken
 - **Project Management:** Jira, Mural, Miro, Lucidspark, Trello, Notion
-- **Other:** Visual Studio, VS Code, Premiere Pro, Figma
+- **Plugins**:** DOTween
+- **Other:** Visual Studio, VS Code, Premiere Pro, Figma, 
